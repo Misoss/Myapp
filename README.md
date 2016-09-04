@@ -7,9 +7,7 @@ Django project starter ( Version 1.10 )
 ## Command
 
 1. Create new app
-```
-python manage.py startapp %appname%
-```
+```python manage.py startapp %appname%```
 
 2. After create a new App
 ```python manage.py migrate```
